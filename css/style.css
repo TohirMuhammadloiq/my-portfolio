@@ -433,27 +433,35 @@ section{
 }
 
 .about .row .progress .bar-1-1 span{
-    width: 90%;
+    width: 70%;
 }
 
 .about .row .progress .bar-1-2 span{
-    width: 75%;
+    width: 60%;
 }
 
 .about .row .progress .bar-1-3 span{
-    width: 80%;
+    width: 55%;
 }
 
 .about .row .progress .bar-2-1 span{
-    width: 95%;
+    width: 40%;
 }
 
 .about .row .progress .bar-2-2 span{
-    width: 89%;
+    width: 45%;
 }
 
 .about .row .progress .bar-2-3 span{
-    width: 65%;
+    width: 35%;
+}
+
+.about .row .progress .bar-3-1 span{
+    width: 45%;
+}
+
+.about .row .progress .bar-3-2 span{
+    width: 55%;
 }
 
 .services .box-container{
